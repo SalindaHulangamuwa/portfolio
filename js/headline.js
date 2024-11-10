@@ -1,4 +1,4 @@
-const skills = ["WEB DEVELOPER", "GRAPHIC DESIGNER", "MOTION EDITOR"];
+const skills = ["WEB DEVELOPER", "GRAPHIC DESIGNER", "AI/ML DEVELOPER"];
 
 const headlines = document.querySelectorAll(".headline1");
 const triangle = document.getElementById("trianglesvg");
